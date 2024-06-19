@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3em;
+    color: #dc3545;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.verse {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #6c757d;
+}
+
+.chorus {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #dc3545;
+    text-align: center;
+}
+
